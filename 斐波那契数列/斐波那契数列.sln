@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "斐波那契数列", "斐波那契数列\斐波那契数列.vcxproj", "{EC9F662B-E06B-42F3-A8A7-4C42FD9E8DBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC9F662B-E06B-42F3-A8A7-4C42FD9E8DBE}.Debug|x64.ActiveCfg = Debug|x64
+		{EC9F662B-E06B-42F3-A8A7-4C42FD9E8DBE}.Debug|x64.Build.0 = Debug|x64
+		{EC9F662B-E06B-42F3-A8A7-4C42FD9E8DBE}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC9F662B-E06B-42F3-A8A7-4C42FD9E8DBE}.Debug|x86.Build.0 = Debug|Win32
+		{EC9F662B-E06B-42F3-A8A7-4C42FD9E8DBE}.Release|x64.ActiveCfg = Release|x64
+		{EC9F662B-E06B-42F3-A8A7-4C42FD9E8DBE}.Release|x64.Build.0 = Release|x64
+		{EC9F662B-E06B-42F3-A8A7-4C42FD9E8DBE}.Release|x86.ActiveCfg = Release|Win32
+		{EC9F662B-E06B-42F3-A8A7-4C42FD9E8DBE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E251AB99-A70B-4990-8EF8-51C01DEF67BD}
+	EndGlobalSection
+EndGlobal
