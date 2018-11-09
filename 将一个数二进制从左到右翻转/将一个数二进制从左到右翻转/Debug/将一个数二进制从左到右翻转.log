@@ -1,0 +1,4 @@
+﻿  test.c
+c:\users\xuman\source\repos\将一个数二进制从左到右翻转\将一个数二进制从左到右翻转\test.c(11): warning C4244: “+=”: 从“double”转换到“unsigned int”，可能丢失数据
+c:\users\xuman\source\repos\将一个数二进制从左到右翻转\将一个数二进制从左到右翻转\test.c(32): warning C4013: “system”未定义；假设外部返回 int
+  将一个数二进制从左到右翻转.vcxproj -> C:\Users\xuman\source\repos\将一个数二进制从左到右翻转\Debug\将一个数二进制从左到右翻转.exe
