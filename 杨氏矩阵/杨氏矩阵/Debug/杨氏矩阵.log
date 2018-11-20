@@ -1,0 +1,5 @@
+﻿  test.c
+c:\users\xuman\source\repos\杨氏矩阵\杨氏矩阵\test.c(135): warning C4013: “system”未定义；假设外部返回 int
+c:\users\xuman\source\repos\杨氏矩阵\杨氏矩阵\test.c(33): warning C4715: “Search_L”: 不是所有的控件路径都返回值
+c:\users\xuman\source\repos\杨氏矩阵\杨氏矩阵\test.c(61): warning C4715: “Search_R”: 不是所有的控件路径都返回值
+  杨氏矩阵.vcxproj -> C:\Users\xuman\source\repos\杨氏矩阵\Debug\杨氏矩阵.exe
