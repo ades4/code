@@ -1,0 +1,4 @@
+﻿  test.c
+c:\users\xuman\source\repos\字符串strcat\字符串strcat\test.c(17): warning C4098: “my_strcat”:“void”函数返回值
+c:\users\xuman\source\repos\字符串strcat\字符串strcat\test.c(25): warning C4013: “system”未定义；假设外部返回 int
+  字符串strcat.vcxproj -> C:\Users\xuman\source\repos\字符串strcat\Debug\字符串strcat.exe
