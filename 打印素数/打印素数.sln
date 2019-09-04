@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "打印素数", "打印素数.vcxproj", "{775ED77E-3730-4699-9FAB-7CED8D16FFAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{775ED77E-3730-4699-9FAB-7CED8D16FFAF}.Debug|x64.ActiveCfg = Debug|x64
+		{775ED77E-3730-4699-9FAB-7CED8D16FFAF}.Debug|x64.Build.0 = Debug|x64
+		{775ED77E-3730-4699-9FAB-7CED8D16FFAF}.Debug|x86.ActiveCfg = Debug|Win32
+		{775ED77E-3730-4699-9FAB-7CED8D16FFAF}.Debug|x86.Build.0 = Debug|Win32
+		{775ED77E-3730-4699-9FAB-7CED8D16FFAF}.Release|x64.ActiveCfg = Release|x64
+		{775ED77E-3730-4699-9FAB-7CED8D16FFAF}.Release|x64.Build.0 = Release|x64
+		{775ED77E-3730-4699-9FAB-7CED8D16FFAF}.Release|x86.ActiveCfg = Release|Win32
+		{775ED77E-3730-4699-9FAB-7CED8D16FFAF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA82A7A4-06DE-4F70-98A4-E5F23411E238}
+	EndGlobalSection
+EndGlobal
