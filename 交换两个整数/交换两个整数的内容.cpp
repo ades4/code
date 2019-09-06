@@ -19,30 +19,30 @@ using namespace std;
 //}
 
 
-//int main()
-//{
-//	int a = 2, b = 5, c = 0;
-//	c = a + b;
-//	a = c - a;
-//	b = c - a;
-//
-//	cout << "a = " << a << " " << "b = " << b << endl;
-//	system("pause");
-//	return 0;
-//}
-
-
 int main()
 {
-	int a = 2, b = 5;
-	a = a + b;   //a = 7
-	b = a - b;   //b = 2
-	a = a - b;   //a = 5
+	int a = 2, b = 5, c = 0;
+	c = a + b;
+	a = c - a;
+	b = c - a;
 
 	cout << "a = " << a << " " << "b = " << b << endl;
 	system("pause");
 	return 0;
 }
+
+
+//int main()
+//{
+//	int a = 2, b = 5;
+//	a = a + b;   //a = 7
+//	b = a - b;   //b = 2
+//	a = a - b;   //a = 5
+//
+//	cout << "a = " << a << " " << "b = " << b << endl;
+//	system("pause");
+//	return 0;
+//}
 
 
 //int main()
