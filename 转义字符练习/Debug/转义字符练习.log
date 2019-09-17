@@ -1,0 +1,4 @@
+﻿  源.c
+c:\users\xuman\source\repos\转义字符练习\源.c(18): warning C4013: “strlen”未定义；假设外部返回 int
+c:\users\xuman\source\repos\转义字符练习\源.c(21): warning C4013: “system”未定义；假设外部返回 int
+  转义字符练习.vcxproj -> C:\Users\xuman\source\repos\转义字符练习\Debug\转义字符练习.exe
