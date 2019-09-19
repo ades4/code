@@ -1,0 +1,4 @@
+﻿  test.c
+c:\users\xuman\source\repos\字符串函数strlen实现\字符串函数strlen实现\test.c(8): warning C4090: “初始化”: 不同的“const”限定符
+c:\users\xuman\source\repos\字符串函数strlen实现\字符串函数strlen实现\test.c(42): warning C4013: “system”未定义；假设外部返回 int
+  字符串函数strlen实现.vcxproj -> C:\Users\xuman\source\repos\字符串函数strlen实现\Debug\字符串函数strlen实现.exe
