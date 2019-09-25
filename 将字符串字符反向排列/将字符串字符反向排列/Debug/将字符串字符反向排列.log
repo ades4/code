@@ -1,0 +1,4 @@
+﻿  反向排列.c
+c:\users\xuman\source\repos\将字符串字符反向排列\将字符串字符反向排列\反向排列.c(14): warning C4098: “reverse_string”:“void”函数返回值
+c:\users\xuman\source\repos\将字符串字符反向排列\将字符串字符反向排列\反向排列.c(23): warning C4013: “system”未定义；假设外部返回 int
+  将字符串字符反向排列.vcxproj -> C:\Users\xuman\source\repos\将字符串字符反向排列\Debug\将字符串字符反向排列.exe
