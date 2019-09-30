@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\xuman\source\repos\数学加法求和\源.cpp(15): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xuman\source\repos\数学加法求和\源.cpp(19): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  数学加法求和.vcxproj -> C:\Users\xuman\source\repos\数学加法求和\Debug\数学加法求和.exe
