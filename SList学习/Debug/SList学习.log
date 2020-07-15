@@ -1,0 +1,8 @@
+﻿  SList.c
+c:\users\xuman\source\repos\slist学习\slist.c(56): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+c:\users\xuman\source\repos\slist学习\slist.c(84): warning C4033: “SListFind”必须返回值
+  test.c
+c:\users\xuman\source\repos\slist学习\test.c(80): warning C4013: “system”未定义；假设外部返回 int
+  正在生成代码...
+c:\users\xuman\source\repos\slist学习\slist.c(96): warning C4715: “SListFind”: 不是所有的控件路径都返回值
+  SList学习.vcxproj -> C:\Users\xuman\source\repos\SList学习\Debug\SList学习.exe
